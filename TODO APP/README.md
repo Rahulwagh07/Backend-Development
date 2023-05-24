@@ -18,6 +18,7 @@ Create a .env file in the root directory and provide the following configuration
 
  
 MONGODB_URL
+
 PORT=4000
  
 
