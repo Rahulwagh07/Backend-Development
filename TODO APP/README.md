@@ -6,14 +6,8 @@ Prerequisites
 Before running the application, make sure you have the following installed:
 
 Node.js: https://nodejs.org
-MongoDB: https://www.mongodb.com
-Installation
-Clone the repository:
 
- 
- 
-$ git clone https://github.com/your-username/basic-crud-nodejs.git
-Navigate to the project directory:
+MongoDB: https://www.mongodb.com
 
  
 Install the dependencies:
